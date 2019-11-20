@@ -1,5 +1,8 @@
 DB management assistance classes
 
+Install:
+`composer require linkuha/db:dev-master`
+
 Example of usage:
 
 MySQLi with keeping connected instances. As example can show part of object factory with any DI container.
